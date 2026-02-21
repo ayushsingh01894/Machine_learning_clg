@@ -39,3 +39,6 @@ Each project focuses on understanding basic machine learning concepts such as da
 2. Install required libraries
 ```bash
 pip install pandas numpy scikit-learn matplotlib
+
+live demo ---https://ayushsingh01894.github.io/Machine_learning_clg/Linear_reg_mini_project.html
+
